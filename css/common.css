@@ -1,0 +1,32 @@
+/* button */
+.button {
+	background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+	border-radius: 4px;
+	display: inline-block;
+	letter-spacing: 0.5px;
+	font-weight: 700;
+	line-height: 1.25;
+	padding: 16px 40px;
+	color: #fff;
+}
+
+.button:hover {
+	background: linear-gradient(55.95deg, #ca302b 0%, #bd4805 100%);
+	color: #fff;
+}
+/* ========================================= */
+
+
+/* button--white */
+
+.button--white {
+	background: transparent;
+	border: 1px solid #FF3F3A;
+	color: #FF3F3A;
+	padding: 15px 39px;
+}
+
+.button--white:hover {
+	background: linear-gradient(55.95deg, #ca302b 0%, #bd4805 100%);
+	color: #fff;
+}
